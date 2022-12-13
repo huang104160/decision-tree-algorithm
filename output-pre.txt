@@ -1,0 +1,6 @@
+data_01:	1	1	2	1	Y
+data_02:	1	1	2	2	Y
+data_03:	3	1	2	1	Y
+data_04:	1	2	2	1	Y
+data_05:	1	3	1	2	N
+data_06:	1	3	1	1	N

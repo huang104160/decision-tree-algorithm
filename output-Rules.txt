@@ -1,0 +1,5 @@
+IF NODE_ID1 = 1  and NODE_ID3 = 1		 THEN => 0 (N) is target class
+IF NODE_ID1 = 1  and NODE_ID3 = 2		 THEN => 1 (Y) is target class
+IF NODE_ID1 = 2		 THEN => 1 (Y) is target class
+IF NODE_ID1 = 3  and NODE_ID4 = 1		 THEN => 1 (Y) is target class
+IF NODE_ID1 = 3  and NODE_ID4 = 2		 THEN => 0 (N) is target class
